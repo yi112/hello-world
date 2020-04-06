@@ -1,2 +1,2 @@
 # hello-world
-nothing
+There is nothing to do.
